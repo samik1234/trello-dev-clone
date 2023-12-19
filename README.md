@@ -4,9 +4,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
-For - Mobile view
-![tttt](https://github.com/samik1234/trello-dev-clone/assets/82882143/82b7c7d6-1ae9-4b14-b919-cd7ab57e82d0)
-
 
 For Desktop view
 
