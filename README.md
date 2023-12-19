@@ -3,7 +3,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
-![1trello](https://github.com/samik1234/trello-dev-clone/assets/82882143/0ba1552a-b611-4f0e-9e87-ef0ecd81861a)
 
 
 
