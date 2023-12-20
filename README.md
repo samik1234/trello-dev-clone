@@ -1,5 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+
+
+
+
+For Desktop view
+
+![ttt](https://github.com/samik1234/trello-dev-clone/assets/82882143/05a81c04-7c8f-4c0c-b216-51c0355b1cd6)
+
 ## Getting Started
 
 First, run the development server:
