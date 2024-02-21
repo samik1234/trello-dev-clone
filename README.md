@@ -45,7 +45,7 @@ Key Features:
 
 > Landing page
 
-> MySQL DB
+> MongoDB
 
 > Prisma ORM
 
