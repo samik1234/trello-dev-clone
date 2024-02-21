@@ -67,6 +67,10 @@ Key Features:
 
 
 
+Prerequisites
+Node version 18.x.x
+
+
 
 
 
