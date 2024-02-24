@@ -17,16 +17,6 @@ Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailw
 
 
 
-This is a repository for Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MongoDB
-
-![Untitled](https://github.com/samik1234/trello-dev-clone/assets/82882143/ea64131e-0693-498a-8713-722d1fb67b74)
-
-
-
-
-
-
-
 
 
 
@@ -82,6 +72,12 @@ Prerequisites:
 Node version 18.x.x
 
 
+
+
+
+
+
+
 Install packages
 npm i
 
@@ -94,21 +90,30 @@ Setup .env file
 
 2.CLERK_SECRET_KEY=
 
+
 3.NEXT_PUBLIC_CLERK_SIGN_IN_URL=
+
 
 4.NEXT_PUBLIC_CLERK_SIGN_UP_URL=
 
+
 5.NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=
+
 
 6.NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=
 
+
 7.DATABASE_URL=
+
 
 8.NEXT_PUBLIC_UNSPLASH_ACCESS_KEY=
 
+
 9.STRIPE_API_KEY=
 
+
 10.NEXT_PUBLIC_APP_URL=
+
 
 11.STRIPE_WEBHOOK_SECRET=
 
