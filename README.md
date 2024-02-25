@@ -64,9 +64,6 @@ Key Features:
 
 
 
-
-
-
 Prerequisites: 
 
 Node version 18.x.x
@@ -78,8 +75,26 @@ Node version 18.x.x
 
 
 
+
+
+
+
+
+
+
 Install packages
 npm i
+
+
+
+
+
+
+
+
+
+
+
 
 
 
