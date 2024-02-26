@@ -16,6 +16,7 @@ Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailw
 
 
 
+![Untitled](https://github.com/samik1234/trello-dev-clone/assets/82882143/dda2a664-0201-43c4-b67b-3078c8fa65f7)
 
 
 
