@@ -47,6 +47,10 @@ Fullstack Trello Clone
 
 
 
+
+
+
+
 ## Features
 
 - Auth
@@ -75,7 +79,7 @@ Fullstack Trello Clone
 
 
 
-Prerequisites: 
+## Prerequisites: 
 
 Node version 18.x.x
 
