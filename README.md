@@ -121,17 +121,15 @@ Node version 18.x.x
 
 
 
-Setup Prisma
+## Setup Prisma
 
- Add MySQL Database (I used MongoDB)
-
-  npx prisma generate
-
-  npx prisma db push
+- Add MySQL Database (I used MongoDB)
+-  npx prisma generate
+-  npx prisma db push
 
 
 
-Start the app
+## Start the app
 
- npm run dev
+ - npm run dev
 
