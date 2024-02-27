@@ -98,13 +98,10 @@ Node version 18.x.x
 
 
 ## Install packages
-npm i
+- npm i
 
 
-
-
-
-Setup .env file
+## Setup .env file
 
 - NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 - CLERK_SECRET_KEY=
