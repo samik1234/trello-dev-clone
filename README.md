@@ -35,6 +35,13 @@ Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailw
 
 
 
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
+
 
 
 
