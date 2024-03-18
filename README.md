@@ -11,7 +11,6 @@
 
 
 
-![tttt](https://github.com/samik1234/trello-dev-clone/assets/82882143/4e18c78e-ba0b-43af-9afc-ed5c3b1be59f)
 
 
 
@@ -26,6 +25,7 @@ This is a repository for Fullstack Trello Clone: Next.js 14, Server Actions, Rea
 
 
 
+![tttt](https://github.com/samik1234/trello-dev-clone/assets/82882143/8fe732d6-4b88-4141-82fe-81636b53d5f5)
 
 
 
