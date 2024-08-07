@@ -41,20 +41,6 @@ This is a repository for Fullstack Trello Clone: Next.js 14, Server Actions, Rea
 
 
 
-## Tech Stack
-
-**Client:** React, Nextjs 14, Stripe, TailwindCSS
-
-**Server:** Node, MongoDB, Prisma
-
-
-
-
-
-
-
-
-
 
 
 
